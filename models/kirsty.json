@@ -3,7 +3,7 @@
   "wake_word": "hey kirsty",
   "author": "Ian Southam",
   "website": "",
-  "model": "hey_kerst_ee.tflite",
+  "model": "./hey_kerst_ee.tflite",
   "version": 2,
   "micro": {
     "probability_cutoff": 0.97,
