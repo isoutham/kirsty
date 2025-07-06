@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Hey Kirsty",
   "author": "Ian Southam",
-  "model": "hey_kerst_ee.tflite",
+  "model": "hey_kerst_e.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
