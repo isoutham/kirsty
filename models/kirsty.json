@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "hey kirsty",
+  "wake_word": "Hey Kirsty",
   "author": "Ian Southam",
-  "website": "",
-  "model": "https://raw.githubusercontent.com/isoutham/kirsty/refs/heads/master/models/hey_kerst_ee.tflite",
+  "model": "hey_kerst_ee.tflite",
+  "trained_languages": ["en"],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.97,
